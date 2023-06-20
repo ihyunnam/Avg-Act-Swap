@@ -1,2 +1,2 @@
 # FHE-image-classifier
-2023 summer project with Dan Boneh, Stanford major grant. FHE image classifier trained using DNN.
+FHE image classifier trained using DNN. Summer 2023 major grant proposal at Stanford.
