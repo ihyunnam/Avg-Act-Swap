@@ -7,7 +7,7 @@ This repository presents three neural networks using the Swap: a 5-layer CNN (5-
 ## Experimental Results
 All experiments were conducted on an e2-standard-32 machine with 32 vCPUs and 128GB of memory. The CPU platform is Intel Broadwell. Compared to the 8-layer model without the Swap, 5-swap acheived a 47% reduction in encrypted inference time and a 96% accuracy using Tanh activation with k=3, and a 35% reduction in encrypted inference time and a 98% accuracy using Square activation with k=3. The 8-layer model using the Square Activation achieved 
 
-Furthermore, we modified Lenet-5 to use the Avg-Act Swap in the second occurrence of the model to achieve a 27% reduction in encrypted inference speed with a 90% accuracy.
+Furthermore, we modified Lenet-5 to use the Avg-Act Swap in the second occurrence of the model to achieve a 28% reduction in encrypted inference speed with a 90% accuracy.
 
 More details will be available in the paper: (to be uploaded soon).
 
